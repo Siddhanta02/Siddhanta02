@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/f15607_49c535cbcd6041b89a6f54c649b5c49b~mv2.gif)
+[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Siddhanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="UI Design" width"400" src="[https://ultimez.com/blog/wp-content/uploads/2016/08/animation-in-web-design.gif](https://static.wixstatic.com/media/f15607_49c535cbcd6041b89a6f54c649b5c49b~mv2.gif)">
