@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDesign-and-Code&psig=AOvVaw2t1qf8lC0RGNSJuMFKbrpr&ust=1686289457419000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC5jfL7sv8CFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png))]
+[![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDesign-and-Code&psig=AOvVaw2t1qf8lC0RGNSJuMFKbrpr&ust=1686289457419000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC5jfL7sv8CFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png))]
 <h1 align="center">Hi 👋, I'm Siddhanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="UI Design" width"400" src="https://www.behance.net/gallery/67817393/20-Excellent-UIUX-Design-Animation-Examples">
