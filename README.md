@@ -1,7 +1,7 @@
 [![MasterHead]([20 Excellent UI_UX Design Animation Examples. on Behance]
 <h1 align="center">Hi 👋, I'm Siddhanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="UI Design" width"400" src="20 Excellent UI_UX Design Animation Examples. on Behance">
+<img align="right" alt="UI Design" width"400" src="![image](https://github.com/Siddhanta02/Siddhanta02/assets/88884524/a889ddc8-01ba-4be2-a0fb-7994730df608)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanta02&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanta02" /> </p>
 
