@@ -1,7 +1,7 @@
-[![MasterHead]([20 Excellent UI_UX Design Animation Examples. on Behance]
+[![MasterHead]([[20 Excellent UI_UX Design Animation Examples. on Behance](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
 <h1 align="center">Hi 👋, I'm Siddhanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="UI Design" width"400" src="![image](https://github.com/Siddhanta02/Siddhanta02/assets/88884524/a889ddc8-01ba-4be2-a0fb-7994730df608)">
+<img align="right" alt="UI Design" width"400" src="https://ultimez.com/blog/wp-content/uploads/2016/08/animation-in-web-design.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanta02&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanta02" /> </p>
 
