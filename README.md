@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Web+Development;%20DS%20;UI%20Design%20is%20FUN&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Web+Development;%20DSA%20;UI%20Design%20is%20FUN&center=true&width=550&height=50"></a>
 </p>
 <br>
 
